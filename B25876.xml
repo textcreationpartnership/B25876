@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter on George Keith's advertisement of an intended meeting at Turners-Hall, the 29th of April 1697</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25876</idno><idno type="EEBO-CITATION">9551138</idno>
+  <idno type="VID">205734</idno>
+  <idno type="EEBO-PROQUEST">2264197215</idno>
+  
+            <idno type="STC">Wing L1583A</idno>
+            <idno type="OCLC">09551138</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25876)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205734)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:30 or 1725:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter on George Keith's advertisement of an intended meeting at Turners-Hall, the 29th of April 1697</title>
+                  <author>W. K.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to W.K., but these initials do not appear on the piece.</note>
+                  <note>This item appears at reel 1334:30 as Wing K26 (number cancelled in Wing 2nd ed.), and at reel 1725:33 as Wing L1583A.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Keith, George, 1639?-1716.</term>
+               <term type="topical_term">Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205734:1"/>
+            <pb facs="tcp:205734:1"/>
+            <p>A LETTER ON <hi>George Keith's</hi> ADVERTISEMENT OF An Intended Meeting AT Turners-Hall, The 29th of <hi>April,</hi> 1697.</p>
+            <p>
+               <hi>LONDON:</hi> Printed and Sold by <hi>T. Sowle,</hi> near the <hi>Meeting-House</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street,</hi> and at the <hi>Bible</hi> in <hi>Leaden-Hall-Street,</hi> 1697.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:205734:2"/>
+            <opener>
+               <salute>Mrs. <hi>Sowle,</hi>
+               </salute>
+            </opener>
+            <p>HAving Received this, I thought good to send it to You; who, <hi>I</hi> understand, Print for the <hi>Quakers,</hi> and some others, who are Persons of Moderation; and if you think fit to Print this, may.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:205734:2"/>
+            <head>A LETTER ON <hi>George Keith's</hi> ADVERTISEMENT, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>My Good Friend,</salute>
+            </opener>
+            <p>IT's a Kindness to be accomodated with that by which one can either reap Pleasure or Profit, but the <hi>Adver<g ref="char:EOLhyphen"/>tisment</hi> I received, affords neither to a Quiet Mind, or Christian Spirit.</p>
+            <p>I intreat the Favour of a few Lines to advise me what this <hi>Geo. Keith</hi> is; for, to me, he doth appear Peremptory, Singular, and his design of an Ill Tendency.</p>
+            <p n="1">1. <hi>Peremptory,</hi> because he takes upon him to appoint a Meeting, fix time and place; and then, in his own Proceed<g ref="char:EOLhyphen"/>ings, to be so far Judge, as Confidently to Affirm the Per<g ref="char:EOLhyphen"/>sons he mentions are justly Desired to be present, as if his so Saying were sufficient Proof, that he hath such a Power
+<pb n="4" facs="tcp:205734:3"/> as to Summon whom he pleases, Charge, Recharge, and prove Guilty in their Absence, and unheard; and if they answer not his Desire, he'll Try, Sentence, and Condemn them, taking all <hi>Pro Confesso,</hi> that he Suggests, if they yield not Obedience to him, and apear not at his high Com<g ref="char:EOLhyphen"/>mission Court.</p>
+            <p n="2">2. It's <hi>Singular,</hi> at least to me, for any Person Concern'd in a Controversy, that is exposed in publick Prints (as I perceived this between him and the <hi>Quakers</hi> is) to assume such a Power and Method of Answering as he doth.</p>
+            <p n="3">3. And the Design and Consequence of which Method, at this time of the Day, to me seems very ill, tending to raise <hi>Fewds, Animosities</hi> and <hi>Prejudices</hi> amongst <hi>Protestants;</hi> and for any pretending to be <hi>Protestant</hi> Dissenters, as these <hi>Quakers</hi> do (and indeed in what do they differ from us, but in the Sacraments, Ceremonies, and a stricter way of Living) and as such, are Recognized by the Parlia<g ref="char:EOLhyphen"/>ment, to be concerned in such a Work, will raise a strong Jealousie in many that the Fomenters and Propagators of such Assemblies for such pretended Ends, as are proposed, are really Influenced by some Popish Agent, or that they are themselves so Inclined, and by such ways would bring the <hi>Protestant</hi> Religion into Contempt, by Rendering them so Divided▪ and Guilty of such Gross Errors and Heresies; and the next word, ready to come forth, is Heretick, and then away with these Hereticks, better some cut off and Destroyed, than suffered to Live to Infect the Flock.</p>
+            <p>And notwithstanding the Parenthesis which <hi>G. K.</hi> claps in, when he Instigates the Christian Teachers, to oppose the words <hi>Gangrene</hi> and <hi>Contagion,</hi> which, he saith, hath, and doth at present Infect many Thousands to me;
+<pb n="5" facs="tcp:205734:3"/> shews his Inclinations to have other Weapons made use of, than only Spiritual: Therefore,</p>
+            <p>Pra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inform me what this desperate <hi>Viragoe,</hi> this busie and officious Agent is, how looked upon, Countenanced, or Contemned by Authority in your great City; seeing he writes that his Meeting is by their Permission, to detect the Vile and Gross Errors of <hi>William Penn, Thomas Ellwood, George Whitehead, John Penington,</hi> and their Second Days Weekly Meeting, as he calls it.</p>
+            <p>Surely, if the Civil Authority, whose Business is to pre<g ref="char:EOLhyphen"/>serve the Peace, were desirous to have the Errors and He<g ref="char:EOLhyphen"/>resies of these Men Exposed, they should not Employ such an one, but rather had this matter well weighed and con<g ref="char:EOLhyphen"/>sidered by some Divine, Able, Judicious and Moderate Persons that were Capable to use such proper ways and methods that might Demonstrate they sought their Con<g ref="char:EOLhyphen"/>viction, and Return out of those Errors (if they, or any in this Nation, are guilty thereof) than to imploy such an Agent, who appears more desirous to Charge, Recharge, and Prove those Persons Guilty in their Absence, and in such a confused, mixt and unthinking Assembly (as such commonly are) than to make use of that way of Replying to publick Print, or seeking in a Spirit of Meekness accord<g ref="char:EOLhyphen"/>ing to the Apostolick Doctrine to restore them; but if it be from a Conscienciousness of his own Inability, either truly to do the one, or rightly to do the other, it shews his Preju<g ref="char:EOLhyphen"/>dice and Subtilty: And surely our Church, and the truly Pious and Learned among us, want no Assistance from such an one as this <hi>Geo. Keith</hi> appears to be, that still pretends to <hi>Quakerism,</hi> and to be a Dissenter of that sort, who pretend that Tythes are not to be paid of <hi>Divine Right,</hi> neither are they in any part of the <hi>New Testament,</hi> by the direction of the Testator to be paid as such unto Gospel Ministers for their Maintenance.</p>
+            <pb n="6" facs="tcp:205734:4"/>
+            <p>And the <hi>Quakers</hi> are such a People that will not carry their Children to the Minister to be Baptized, neither will they pay for it, nor the Dues to the Minister of the Parish for Churching of Women, nor Burials; neither do they like our Fonts, Bells, Surplices, and Cushions, Communi<g ref="char:EOLhyphen"/>on-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ables, nor Carpitts; but rather Esteem them Popish Institutions.</p>
+            <p>Now these things Considered, with what is before hint<g ref="char:EOLhyphen"/>ed, How can the Civil Authority Permit, or the Ecclesiasti<g ref="char:EOLhyphen"/>cal Encourage such an Angry, Hot, Rigid, Dissenting <hi>Qua<g ref="char:EOLhyphen"/>ker</hi> in this Work?</p>
+            <p>For my part, as little Wit as the <hi>Quakers</hi> may be esteem<g ref="char:EOLhyphen"/>ed to have; I shall conclude them, besides that little to meet this Busie, Confident, Officious Tool; that, I fear, hath not Wit enough to see how he is made use of, or to consider how easie it is for others to see him, and his Work, and the Tendency and End thereof is neither Just nor Christi<g ref="char:EOLhyphen"/>an—But,</p>
+            <p>Brings, to my Rememberance, a Story, I have heard of some Insincere Popish <hi>Priests;</hi> who, to beget a Credit in some <hi>Pcotestants</hi> of their pretended Miracles, prevailed with an old Woman to feign her self Lame, which she did, and also was instructed to pretend to have had some Dream or Vision, and that therein it was told her, If she did Wash on such a Day, in such a particular place, and had one of her Priests to say so many <hi>Masses</hi> or <hi>Ave-Maries,</hi> she should be Cured, and notice was given thereof (as this <hi>G. K.</hi> doth of his Intended Meeting) the Protestants came to see, but not being Privy to the Juggle nor Design of those that set the thing to Work, came away struck with Admi<g ref="char:EOLhyphen"/>ration, and were ready (as many simple People may be in <hi>Geo. Keith</hi>'s Meeting) to conclude some notable thing was done. But it so fell out, that this deceipt was not easie to
+<pb n="7" facs="tcp:205734:4"/> the Poor Woman that was Instrumental in the Cheat, and she was willing in her Confession to a <hi>Ghostly Father,</hi> of whom she had heard a good Fame, to divulge the whole Trick to him; who, altho' of the same Profession, but more wise and sincere than the designing Priest that want<g ref="char:EOLhyphen"/>ed (as <hi>G. K.</hi> may) a Popular Applause to Injoyn the Wo<g ref="char:EOLhyphen"/>man to Confess the Truth; telling her, The Church had no need of such methods to support her Power; and I also think, our Church hath no need to Countenance or Encou<g ref="char:EOLhyphen"/>rage any such Dissenting and Designing Agents, that seek themselves more than her true Honour, or the Advancing their particular Interest, or venting their Prejudices more than seeking the Honour of the <hi>Church</hi> or <hi>Christian Religion,</hi> and I hope there are some such Fathers among us, that have more Sincerity and Wisdom, than to Countenance such Per<g ref="char:EOLhyphen"/>sons or Things, but when they see it needful to detect Er<g ref="char:EOLhyphen"/>ror, and reclaim Hereticks, will use more Proper and Chri<g ref="char:EOLhyphen"/>stian Methods, that shall rather reach their Consciences, and convince their Understandings, than expose the <hi>Quakers</hi> and <hi>Religion</hi> in <hi>General</hi> to the Scorn and Laughter of such a mixt and heedless Number, and themselves to the Slight and Contempt of those they pretend to Reclaim.</p>
+            <p>And considering the Day this <hi>G. Keith</hi> hath made choice of, for his Work is the Day after that Authority hath ap<g ref="char:EOLhyphen"/>pointed for a publick Fast; and he pretending to Act by their Permission, I thought meet to add the following Text, that every one may see how he answers Authority, and the true End of a Christian Fast.</p>
+            <p>Behold ye Fast for Strife and Debate, and to smite with the Fist of Wickedness; ye shall not Fast as ye do this Day, to mak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your Voice to be heard on High, <hi>Isa.</hi> 58. 4.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
